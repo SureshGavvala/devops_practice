@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>simple-java-app</artifactId>
+    <artifactId>devops_practice</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging> <!-- JAR packaging -->
 
